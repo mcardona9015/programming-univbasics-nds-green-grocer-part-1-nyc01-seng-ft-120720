@@ -3,9 +3,9 @@ def find_item_by_name_in_collection(name, collection)
   collection.each do |item|
     if item.keys.include? name
       item
-      binding.pry
     end
   end
+  binding.pry
   # Implement me first!
   #
   # Consult README for inputs and outputs
