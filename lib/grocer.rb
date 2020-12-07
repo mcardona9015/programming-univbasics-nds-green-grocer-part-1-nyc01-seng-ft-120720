@@ -5,7 +5,6 @@ def find_item_by_name_in_collection(name, collection)
       item
     end
   end
-  binding.pry
   # Implement me first!
   #
   # Consult README for inputs and outputs
